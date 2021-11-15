@@ -5084,7 +5084,9 @@
         .navbar-toggler {
           line-height: 2;
         }     
-       
+               .bg-img {
+        background-size: cover !important;
+        }
       }
   
   /* ====================== [ End Responsive ] ====================== */
