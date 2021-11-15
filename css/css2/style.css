@@ -5084,7 +5084,23 @@
         .navbar-toggler {
           line-height: 2;
         }     
-   
+
+
+
+       
       }
   
   /* ====================== [ End Responsive ] ====================== */
+  @media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+      
+      .bac {
+       
+background-attachment: unset !important; 
+background-position: center !important;
+padding-bottom: unset !important;
+}   
+      }
